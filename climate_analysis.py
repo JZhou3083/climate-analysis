@@ -1,3 +1,4 @@
+"""Climate analysis file"""
 import sys
 import temp_conversion
 import signal
